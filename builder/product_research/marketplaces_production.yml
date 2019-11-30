@@ -1,0 +1,24 @@
+marketplaces:
+- name: United States
+  code: US
+  url: https://www.amazon.com
+  locale: en
+  region: NA
+  categories: (( merge ))
+  mail_packages: (( merge ))
+
+- name: United Kingdom
+  code: UK
+  url: https://www.amazon.co.uk
+  locale: en-GB
+  region: EU
+  categories: (( merge ))
+  mail_packages: (( merge ))
+
+- name: Germany
+  code: DE
+  url: https://www.amazon.de
+  locale: de
+  region: EU
+  categories: (( merge ))
+  mail_packages: (( merge ))

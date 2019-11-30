@@ -1,0 +1,196 @@
+---
+marketplaces:
+- categories:
+  - name: Beauty & Personal Care
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760911%2Cp_36%3A1-99999999%2Cn%3A%2111055981%2Cn%3A11058281&bbn=11055981&ie=UTF8&qid=1520316353&rnid=11055981
+  - name: Electronics
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A281407&bbn=493964&ie=UTF8&qid=1520319459&rnid=493964
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A3206325011&bbn=1063498&ie=UTF8&qid=1520321494&rnid=1063498
+  code: US
+  locale: en
+  mail_packages:
+  - id: 1
+    max_dimensions:
+    - 15
+    - 12
+    - 0.75
+    max_weight: 0.75
+    name: Standard (Small)
+  - id: 5
+    max_dimensions:
+    - 18
+    - 14
+    - 8
+    max_weight: 20
+    name: Standard (Large)
+  - id: 41
+    max_dimensions:
+    - 60
+    - 30
+    max_length_girth: 130
+    max_weight: 70
+    name: Oversize (Small)
+  - id: 43
+    max_dimensions:
+    - 108
+    max_length_girth: 130
+    max_weight: 150
+    name: Oversize (Standard)
+  - id: 45
+    max_dimensions:
+    - 108
+    max_length_girth: 165
+    max_weight: 150
+    name: Oversize (Large)
+  - id: 47
+    name: Oversize (Special)
+  name: United States
+  region: NA
+  url: https://www.amazon.com
+- categories:
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A117332031%2Cp_36%3A1-99999999%2Cn%3A%21117333031%2Cn%3A74129031&bbn=117333031&ie=UTF8&qid=1520390571&rnid=117333031
+  - name: Electronics & Photo
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A560798%2Cp_36%3A1-99999999%2Cn%3A%21560800%2Cn%3A1345741031&bbn=560800&ie=UTF8&qid=1520576495&rnid=560800
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11052681%2Cp_36%3A1-99999999%2Cn%3A3063457031&bbn=3147411&ie=UTF8&qid=1520576898&rnid=3147411
+  code: UK
+  locale: en-GB
+  mail_packages:
+  - id: 11
+    max_dimensions:
+    - 9.05512
+    - 6.1023622
+    - 0.15748
+    max_price: 9
+    max_weight: 0.202825
+    name: Letter (Small)
+  - id: 15
+    max_dimensions:
+    - 11.811
+    - 8.66142
+    - 0.944882
+    max_price: 9
+    max_weight: 0.49604
+    name: Letter (Large)
+  - id: 21
+    max_dimensions:
+    - 7.87402
+    - 5.90551
+    - 0.393701
+    max_weight: 0.17637
+    name: Envelope (Small)
+  - id: 23
+    max_dimensions:
+    - 12.9921
+    - 9.05512
+    - 0.984252
+    max_weight: 1.01413
+    name: Envelope (Standard)
+  - id: 25
+    max_dimensions:
+    - 12.9921
+    - 9.05512
+    - 1.9685
+    max_weight: 2.11644
+    name: Envelope (Large)
+  - id: 33
+    max_dimensions:
+    - 17.7165
+    - 13.3858
+    - 10.2362
+    max_weight: 26.235009
+    name: Parcel (Standard)
+  - id: 41
+    max_dimensions:
+    - 24.0157
+    - 18.1102
+    max_weight: 3.880136
+    name: Oversize (Small)
+  - id: 43
+    max_dimensions:
+    - 47.2441
+    - 23.622
+    max_weight: 65.609569
+    name: Oversize (Standard)
+  - id: 45
+    max_weight: 65.609569
+    name: Oversize (Large)
+  name: United Kingdom
+  region: EU
+  url: https://www.amazon.co.uk
+- categories:
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A84230031%2Cp_36%3A1-99999999%2Cn%3A%2184231031%2Cn%3A64272031&bbn=84231031&ie=UTF8&qid=1520578851&rnid=84231031
+  - name: Elektronik & Foto
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A562066%2Cp_36%3A1-99999999%2Cn%3A%21569604%2Cn%3A1071738&bbn=569604&ie=UTF8&qid=1520580119&rnid=569604
+  - name: Küche, Haushalt & Wohnen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3167641%2Cp_36%3A1-99999999%2Cn%3A%213169011%2Cn%3A3437522031&bbn=3169011&ie=UTF8&qid=1520581017&rnid=3169011
+  code: DE
+  locale: de
+  mail_packages:
+  - id: 21
+    max_dimensions:
+    - 7.87402
+    - 5.90551
+    - 0.393701
+    max_weight: 0.220462
+    name: Envelope (Small)
+  - id: 23
+    max_dimensions:
+    - 12.9921
+    - 9.05512
+    - 0.984252
+    max_weight: 1.10231
+    name: Envelope (Standard)
+  - id: 25
+    max_dimensions:
+    - 12.9921
+    - 9.05512
+    - 1.9685
+    max_weight: 2.20462
+    name: Envelope (Large)
+  - id: 33
+    max_dimensions:
+    - 17.7165
+    - 13.3858
+    - 10.2362
+    max_weight: 26.455471
+    name: Parcel (Standard)
+  - id: 41
+    max_dimensions:
+    - 24.0157
+    - 18.1102
+    max_weight: 4.409245
+    name: Oversize (Small)
+  - id: 43
+    max_dimensions:
+    - 47.2441
+    - 23.622
+    max_weight: 66.138679
+    name: Oversize (Standard)
+  - id: 45
+    max_weight: 66.138679
+    name: Oversize (Large)
+  name: Germany
+  region: EU
+  url: https://www.amazon.de

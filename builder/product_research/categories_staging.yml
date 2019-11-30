@@ -1,0 +1,275 @@
+marketplaces:
+- name: United States
+  categories:
+  - name: Appliances
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2619525011%2Cp_36%3A1-99999999%2Cn%3A%212619526011%2Cn%3A3737671&bbn=2619526011&ie=UTF8&qid=1520259083&rnid=2619526011
+  - name: Arts, Crafts & Sewing
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2617941011%2Cp_36%3A1-99999999%2Cn%3A%212617942011%2Cn%3A2747968011&bbn=2617942011&ie=UTF8&qid=1520316002&rnid=2617942011
+  - name: Automotive
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A15684181%2Cp_36%3A1-99999999%2Cn%3A%2115690151%2Cn%3A15718271&bbn=15690151&ie=UTF8&qid=1520316110&rnid=15690151
+  - name: Baby
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A165796011%2Cp_36%3A1-99999999%2Cn%3A%21165797011%2Cn%3A7147444011&bbn=165797011&ie=UTF8&qid=1520316256&rnid=165797011
+  - name: Beauty & Personal Care
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760911%2Cp_36%3A1-99999999%2Cn%3A%2111055981%2Cn%3A11058281&bbn=11055981&ie=UTF8&qid=1520316353&rnid=11055981
+  - name: Camera & Photo
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cn%3A%21493964%2Cn%3A502394%2Cp_36%3A1-99999999%2Cn%3A172435&bbn=502394&ie=UTF8&qid=1520316427&rnid=502394
+  - name: Cell Phones & Accessories
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A2811119011%2Cn%3A2407748011&bbn=2811119011&ie=UTF8&qid=1520316591&rnid=2811119011
+  - name: Clothing, Shoes & Jewelry
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_ex_n_1?rh=n%3A7141123011%2Cn%3A7147440011%2Cp_36%3A1-99999999&bbn=7141123011&ie=UTF8&qid=1524036813
+  - name: Computers & Accessories
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A541966%2Cn%3A172456&bbn=541966&ie=UTF8&qid=1520319379&rnid=541966
+  - name: Electronics
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A281407&bbn=493964&ie=UTF8&qid=1520319459&rnid=493964
+  - name: Grocery & Gourmet Food
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A16310101%2Cp_36%3A1-99999999%2Cn%3A%2116310211%2Cn%3A16323111&bbn=16310211&ie=UTF8&qid=1520319924&rnid=16310211
+  - name: Health & Household
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760901%2Cp_36%3A1-99999999%2Cn%3A%213760931%2Cn%3A10787321&bbn=3760931&ie=UTF8&qid=1520321289&rnid=3760931
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A3206325011&bbn=1063498&ie=UTF8&qid=1520321494&rnid=1063498
+  - name: Industrial & Scientific
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A16310091%2Cp_72%3A1248924011%2Cn%3A%2116310161%2Cn%3A256167011&bbn=16310161&ie=UTF8&qid=1520321634&rnid=16310161
+  - name: Kitchen & Dining
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A284507%2Cn%3A289668&bbn=284507&ie=UTF8&qid=1520321765&rnid=284507
+  - name: Musical Instruments
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11091801%2Cp_36%3A1-99999999%2Cn%3A%2111965861%2Cn%3A11971241&bbn=11965861&ie=UTF8&qid=1520322219&rnid=11965861
+  - name: Office Products
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1064954%2Cp_36%3A1-99999999%2Cn%3A%211084128%2Cn%3A1069242&bbn=1084128&ie=UTF8&qid=1520322367&rnid=1084128
+  - name: Patio, Lawn & Garden
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2972638011%2Cp_36%3A0-99999999%2Cn%3A%213238155011%2Cn%3A3610851&bbn=3238155011&ie=UTF8&qid=1520322403&rnid=3238155011
+  - name: Pet Supplies
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2619533011%2Cp_36%3A1-99999999%2Cn%3A%212619534011%2Cn%3A2975312011&bbn=2619534011&ie=UTF8&qid=1520322483&rnid=2619534011
+  - name: Sports & Outdoors
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3375251%2Cp_36%3A1-99999999%2Cn%3A%213375301%2Cn%3A706814011&bbn=3375301&ie=UTF8&qid=1520322668&rnid=3375301
+  - name: Tools & Home Improvement
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A228013%2Cp_36%3A1-99999999%2Cn%3A%21468240%2Cn%3A13397451&bbn=468240&ie=UTF8&qid=1520322706&rnid=468240
+  - name: Toys & Games
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A165793011%2Cp_36%3A1-99999999%2Cn%3A%21165795011%2Cn%3A165993011&bbn=165795011&ie=UTF8&qid=1520322821&rnid=165795011
+- name: United Kingdom
+  categories:
+  - name: Automotive
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0/262-6801844-3516955?fst=as%3Aoff&rh=n%3A248877031%2Cp_36%3A1-99999999%2Cn%3A%21248878031%2Cn%3A60036031&bbn=248878031&ie=UTF8&qid=1520323748&rnid=248878031
+  - name: Baby Products
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A59624031%2Cp_36%3A1-99999999%2Cn%3A%2160032031%2Cn%3A60046031&bbn=60032031&ie=UTF8&qid=1520324148&rnid=60032031
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A117332031%2Cp_36%3A1-99999999%2Cn%3A%21117333031%2Cn%3A74129031&bbn=117333031&ie=UTF8&qid=1520390571&rnid=117333031
+  - name: Clothing
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11961407031%2Cp_36%3A1-99999999%2Cn%3A%2111961408031%2Cn%3A12422025031&bbn=11961408031&ie=UTF8&qid=1520390634&rnid=11961408031
+  - name: Computers & Accessories
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A560798%2Cp_36%3A1-99999999%2Cn%3A%21560800%2Cn%3A949408031%2Cn%3A6283030031&bbn=949408031&ie=UTF8&qid=1520390714&rnid=949408031
+  - name: DIY & Tools
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A79903031%2Cp_36%3A1-99999999%2Cn%3A%2179904031%2Cn%3A1937992031&bbn=79904031&ie=UTF8&qid=1520390854&rnid=79904031
+  - name: Electronics & Photo
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A560798%2Cp_36%3A1-99999999%2Cn%3A%21560800%2Cn%3A1345741031&bbn=560800&ie=UTF8&qid=1520576495&rnid=560800
+  - name: Garden & Outdoors
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11052671%2Cp_36%3A1-99999999%2Cn%3A11714771&bbn=10709021&ie=UTF8&qid=1520576590&rnid=10709021
+  - name: Grocery
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340834031%2Cp_36%3A1-99999999%2Cn%3A%21344155031%2Cn%3A358581031&bbn=344155031&ie=UTF8&qid=1520576673&rnid=344155031
+  - name: Health & Personal Care
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A65801031%2Cp_36%3A1-99999999%2Cn%3A%2166280031%2Cn%3A2991665031&bbn=66280031&ie=UTF8&qid=1520576768&rnid=66280031
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11052681%2Cp_36%3A1-99999999%2Cn%3A3063457031&bbn=3147411&ie=UTF8&qid=1520576898&rnid=3147411
+  - name: Jewellery
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A193716031%2Cp_36%3A1-99999999%2Cn%3A%21193717031%2Cn%3A10382835031&bbn=193717031&ie=UTF8&qid=1520576970&rnid=193717031
+  - name: Large Appliances
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A908798031%2Cp_36%3A1-99999999%2Cn%3A%21908799031%2Cn%3A1391051031&bbn=908799031&ie=UTF8&qid=1520577078&rnid=908799031
+  - name: Lighting
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A213077031%2Cp_36%3A1-99999999%2Cn%3A%21213078031%2Cn%3A11716781&bbn=213078031&ie=UTF8&qid=1520577175&rnid=213078031
+  - name: Luggage
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2454166031%2Cp_36%3A1-99999999%2Cn%3A%212454167031%2Cn%3A11967990031&bbn=2454167031&ie=UTF8&qid=1520577216&rnid=2454167031
+  - name: Musical Instruments & DJ
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340837031%2Cp_36%3A1-99999999%2Cn%3A%21340838031%2Cn%3A406551031&bbn=340838031&ie=UTF8&qid=1520577285&rnid=340838031
+  - name: Pet Supplies
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340840031%2Cp_36%3A1-99999999%2Cn%3A%21340841031%2Cn%3A451108031&bbn=340841031&ie=UTF8&qid=1520577362&rnid=340841031
+  - name: Shoes & Bags
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/
+  - name: Sports & Outdoors
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A318949011%2Cp_36%3A1-99999999%2Cn%3A%21319530011%2Cn%3A453430031&bbn=319530011&ie=UTF8&qid=1520577427&rnid=319530011&lo=sports
+  - name: Stationery & Office Supplies
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A192413031%2Cp_36%3A1-99999999%2Cn%3A%21192414031%2Cn%3A9469007031&bbn=192414031&ie=UTF8&qid=1520578099&rnid=192414031
+  - name: Toys & Games
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A468292%2Cp_36%3A1-99999999%2Cn%3A%21595314%2Cn%3A364322031&bbn=595314&ie=UTF8&qid=1520578148&rnid=595314
+  - name: Watches
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A328228011%2Cp_36%3A1-99999999%2Cn%3A%21328229011%2Cn%3A10103528031&bbn=328229011&ie=UTF8&qid=1520578311&rnid=328229011
+- name: Germany
+  categories:
+  - name: Auto & Motorrad
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0/258-8178072-4377102?fst=as%3Aoff&rh=n%3A78191031%2Cp_36%3A1-99999999%2Cn%3A%2179899031%2Cn%3A3041064031&bbn=79899031&ie=UTF8&qid=1520578601&rnid=79899031
+  - name: Baby
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A355007011%2Cp_36%3A1-99999999%2Cn%3A%21357577011%2Cn%3A3968832031&bbn=357577011&ie=UTF8&qid=1520578690&rnid=357577011
+  - name: Baumarkt
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A80084031%2Cp_36%3A1-99999999%2Cn%3A%2180085031%2Cn%3A2076091031&bbn=80085031&ie=UTF8&qid=1520578781&rnid=80085031
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A84230031%2Cp_36%3A1-99999999%2Cn%3A%2184231031%2Cn%3A64272031&bbn=84231031&ie=UTF8&qid=1520578851&rnid=84231031
+  - name: Bekleidung
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A355007011%2Cp_36%3A1-99999999%2Cn%3A%21357577011%2Cn%3A1981001031%2Cn%3A1981002031&bbn=1981001031&ie=UTF8&qid=1520579050&rnid=1981001031
+  - name: Beleuchtung
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A213083031%2Cp_36%3A1-99999999%2Cn%3A%21213084031%2Cn%3A293332011&bbn=213084031&ie=UTF8&qid=1520579104&rnid=213084031
+  - name: Bürobedarf & Schreibwaren
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A192416031%2Cp_36%3A1-99999999%2Cn%3A%21192417031%2Cn%3A197754031&bbn=192417031&ie=UTF8&qid=1520579287&rnid=192417031
+  - name: Computer & Zubehör
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340843031%2Cp_36%3A1-99999999%2Cn%3A%21340844031%2Cn%3A6587748031&bbn=340844031&ie=UTF8&qid=1520579406&rnid=340844031
+  - name: Drogerie & Körperpflege
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A64187031%2Cp_36%3A1-99999999%2Cn%3A%2164257031%2Cn%3A4220746031&bbn=64257031&ie=UTF8&qid=1520579900&rnid=64257031
+  - name: Elektro-Großgeräte
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A908823031%2Cp_36%3A1-99999999%2Cn%3A%21908824031%2Cn%3A13528203031&bbn=908824031&ie=UTF8&qid=1520580062&rnid=908824031
+  - name: Elektronik & Foto
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A562066%2Cp_36%3A1-99999999%2Cn%3A%21569604%2Cn%3A1071738&bbn=569604&ie=UTF8&qid=1520580119&rnid=569604
+  - name: Garten
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A10925031%2Cp_36%3A1-99999999%2Cn%3A%2110925241%2Cn%3A11048451&bbn=10925241&ie=UTF8&qid=1520580611&rnid=10925241
+  - name: Haustier
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340852031%2Cp_36%3A1-99999999%2Cn%3A%21340853031%2Cn%3A445313031&bbn=340853031&ie=UTF8&qid=1520580800&rnid=340853031
+  - name: Kamera & Foto
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A562066%2Cp_36%3A1-99999999%2Cn%3A%21569604%2Cn%3A571860%2Cn%3A2494677031&bbn=571860&ie=UTF8&qid=1520580856&rnid=571860
+  - name: Koffer, Rucksäcke & Taschen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2454118031%2Cp_36%3A1-99999999%2Cn%3A%212454119031%2Cn%3A11971731031&bbn=2454119031&ie=UTF8&qid=1520580949&rnid=2454119031
+  - name: Küche, Haushalt & Wohnen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3167641%2Cp_36%3A1-99999999%2Cn%3A%213169011%2Cn%3A3437522031&bbn=3169011&ie=UTF8&qid=1520581017&rnid=3169011
+  - name: Lebensmittel & Getränke
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340846031%2Cp_36%3A1-99999999%2Cn%3A%21340847031%2Cn%3A14261173031&bbn=340847031&ie=UTF8&qid=1520581122&rnid=340847031
+  - name: Musikinstrumente & DJ-Equipment
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A340849031%2Cp_36%3A1-99999999%2Cn%3A%21340850031%2Cn%3A412549031&bbn=340850031&ie=UTF8&qid=1520581253&rnid=340850031
+  - name: Schmuck
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A327472011%2Cp_36%3A1-99999999%2Cn%3A%21327473011%2Cn%3A10459505031&bbn=327473011&ie=UTF8&qid=1520581331&rnid=327473011
+  - name: Schuhe & Handtaschen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2454118031%2Cp_36%3A1-99999999%2Cn%3A%212454119031%2Cn%3A1760236031%2Cn%3A1760237031&bbn=1760236031&ie=UTF8&qid=1520581375&rnid=1760236031
+  - name: Spielzeug
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A12950651%2Cp_36%3A1-99999999%2Cn%3A%2112950661%2Cn%3A360602031&bbn=12950661&ie=UTF8&qid=1520581584&rnid=12950661
+  - name: Sport & Freizeit
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A16435051%2Cp_36%3A1-99999999%2Cn%3A%2116435121%2Cn%3A3772226031&bbn=16435121&ie=UTF8&qid=1520581810&rnid=16435121
+  - name: Uhren
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A193707031%2Cp_36%3A1-99999999%2Cn%3A%21193708031%2Cn%3A10084739031&bbn=193708031&ie=UTF8&qid=1520582067&rnid=193708031

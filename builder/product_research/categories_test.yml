@@ -1,0 +1,43 @@
+marketplaces:
+- name: United States
+  categories:
+  - name: Beauty & Personal Care
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760911%2Cp_36%3A1-99999999%2Cn%3A%2111055981%2Cn%3A11058281&bbn=11055981&ie=UTF8&qid=1520316353&rnid=11055981
+  - name: Electronics
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A281407&bbn=493964&ie=UTF8&qid=1520319459&rnid=493964
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A3206325011&bbn=1063498&ie=UTF8&qid=1520321494&rnid=1063498
+- name: United Kingdom
+  categories:
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A117332031%2Cp_36%3A1-99999999%2Cn%3A%21117333031%2Cn%3A74129031&bbn=117333031&ie=UTF8&qid=1520390571&rnid=117333031
+  - name: Electronics & Photo
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A560798%2Cp_36%3A1-99999999%2Cn%3A%21560800%2Cn%3A1345741031&bbn=560800&ie=UTF8&qid=1520576495&rnid=560800
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11052681%2Cp_36%3A1-99999999%2Cn%3A3063457031&bbn=3147411&ie=UTF8&qid=1520576898&rnid=3147411
+- name: Germany
+  categories:
+  - name: Beauty
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A84230031%2Cp_36%3A1-99999999%2Cn%3A%2184231031%2Cn%3A64272031&bbn=84231031&ie=UTF8&qid=1520578851&rnid=84231031
+  - name: Elektronik & Foto
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A562066%2Cp_36%3A1-99999999%2Cn%3A%21569604%2Cn%3A1071738&bbn=569604&ie=UTF8&qid=1520580119&rnid=569604
+  - name: Küche, Haushalt & Wohnen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3167641%2Cp_36%3A1-99999999%2Cn%3A%213169011%2Cn%3A3437522031&bbn=3169011&ie=UTF8&qid=1520581017&rnid=3169011

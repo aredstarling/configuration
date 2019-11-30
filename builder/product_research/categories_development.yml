@@ -1,0 +1,19 @@
+marketplaces:
+- name: United States
+  categories:
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A3206325011&bbn=1063498&ie=UTF8&qid=1520321494&rnid=1063498
+- name: United Kingdom
+  categories:
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.co.uk/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11052681%2Cp_36%3A1-99999999%2Cn%3A3063457031&bbn=3147411&ie=UTF8&qid=1520576898&rnid=3147411
+- name: Germany
+  categories:
+  - name: Küche, Haushalt & Wohnen
+    type: normal
+    urls:
+    - https://www.amazon.de/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3167641%2Cp_36%3A1-99999999%2Cn%3A%213169011%2Cn%3A3437522031&bbn=3169011&ie=UTF8&qid=1520581017&rnid=3169011

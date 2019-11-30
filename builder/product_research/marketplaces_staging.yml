@@ -1,0 +1,8 @@
+marketplaces:
+- name: United States
+  code: US
+  url: https://www.amazon.com
+  locale: en
+  region: NA
+  categories: (( merge ))
+  mail_packages: (( merge ))

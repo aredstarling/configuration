@@ -1,0 +1,132 @@
+---
+marketplaces:
+- categories:
+  - name: Appliances
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2619525011%2Cp_36%3A1-99999999%2Cn%3A%212619526011%2Cn%3A3737671&bbn=2619526011&ie=UTF8&qid=1520259083&rnid=2619526011
+  - name: Arts, Crafts & Sewing
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2617941011%2Cp_36%3A1-99999999%2Cn%3A%212617942011%2Cn%3A2747968011&bbn=2617942011&ie=UTF8&qid=1520316002&rnid=2617942011
+  - name: Automotive
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A15684181%2Cp_36%3A1-99999999%2Cn%3A%2115690151%2Cn%3A15718271&bbn=15690151&ie=UTF8&qid=1520316110&rnid=15690151
+  - name: Baby
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A165796011%2Cp_36%3A1-99999999%2Cn%3A%21165797011%2Cn%3A7147444011&bbn=165797011&ie=UTF8&qid=1520316256&rnid=165797011
+  - name: Beauty & Personal Care
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760911%2Cp_36%3A1-99999999%2Cn%3A%2111055981%2Cn%3A11058281&bbn=11055981&ie=UTF8&qid=1520316353&rnid=11055981
+  - name: Camera & Photo
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cn%3A%21493964%2Cn%3A502394%2Cp_36%3A1-99999999%2Cn%3A172435&bbn=502394&ie=UTF8&qid=1520316427&rnid=502394
+  - name: Cell Phones & Accessories
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A2811119011%2Cn%3A2407748011&bbn=2811119011&ie=UTF8&qid=1520316591&rnid=2811119011
+  - name: Clothing, Shoes & Jewelry
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_ex_n_1?rh=n%3A7141123011%2Cn%3A7147440011%2Cp_36%3A1-99999999&bbn=7141123011&ie=UTF8&qid=1524036813
+  - name: Computers & Accessories
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A541966%2Cn%3A172456&bbn=541966&ie=UTF8&qid=1520319379&rnid=541966
+  - name: Electronics
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cp_36%3A1-99999999%2Cn%3A%21493964%2Cn%3A281407&bbn=493964&ie=UTF8&qid=1520319459&rnid=493964
+  - name: Grocery & Gourmet Food
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A16310101%2Cp_36%3A1-99999999%2Cn%3A%2116310211%2Cn%3A16323111&bbn=16310211&ie=UTF8&qid=1520319924&rnid=16310211
+  - name: Health & Household
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3760901%2Cp_36%3A1-99999999%2Cn%3A%213760931%2Cn%3A10787321&bbn=3760931&ie=UTF8&qid=1520321289&rnid=3760931
+  - name: Home & Kitchen
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A3206325011&bbn=1063498&ie=UTF8&qid=1520321494&rnid=1063498
+  - name: Industrial & Scientific
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A16310091%2Cp_72%3A1248924011%2Cn%3A%2116310161%2Cn%3A256167011&bbn=16310161&ie=UTF8&qid=1520321634&rnid=16310161
+  - name: Kitchen & Dining
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1055398%2Cp_36%3A1-99999999%2Cn%3A%211063498%2Cn%3A284507%2Cn%3A289668&bbn=284507&ie=UTF8&qid=1520321765&rnid=284507
+  - name: Musical Instruments
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A11091801%2Cp_36%3A1-99999999%2Cn%3A%2111965861%2Cn%3A11971241&bbn=11965861&ie=UTF8&qid=1520322219&rnid=11965861
+  - name: Office Products
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A1064954%2Cp_36%3A1-99999999%2Cn%3A%211084128%2Cn%3A1069242&bbn=1084128&ie=UTF8&qid=1520322367&rnid=1084128
+  - name: Patio, Lawn & Garden
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2972638011%2Cp_36%3A0-99999999%2Cn%3A%213238155011%2Cn%3A3610851&bbn=3238155011&ie=UTF8&qid=1520322403&rnid=3238155011
+  - name: Pet Supplies
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A2619533011%2Cp_36%3A1-99999999%2Cn%3A%212619534011%2Cn%3A2975312011&bbn=2619534011&ie=UTF8&qid=1520322483&rnid=2619534011
+  - name: Sports & Outdoors
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A3375251%2Cp_36%3A1-99999999%2Cn%3A%213375301%2Cn%3A706814011&bbn=3375301&ie=UTF8&qid=1520322668&rnid=3375301
+  - name: Tools & Home Improvement
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A228013%2Cp_36%3A1-99999999%2Cn%3A%21468240%2Cn%3A13397451&bbn=468240&ie=UTF8&qid=1520322706&rnid=468240
+  - name: Toys & Games
+    type: normal
+    urls:
+    - https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A165793011%2Cp_36%3A1-99999999%2Cn%3A%21165795011%2Cn%3A165993011&bbn=165795011&ie=UTF8&qid=1520322821&rnid=165795011
+  code: US
+  locale: en
+  mail_packages:
+  - id: 1
+    max_dimensions:
+    - 15
+    - 12
+    - 0.75
+    max_weight: 0.75
+    name: Standard (Small)
+  - id: 5
+    max_dimensions:
+    - 18
+    - 14
+    - 8
+    max_weight: 20
+    name: Standard (Large)
+  - id: 41
+    max_dimensions:
+    - 60
+    - 30
+    max_length_girth: 130
+    max_weight: 70
+    name: Oversize (Small)
+  - id: 43
+    max_dimensions:
+    - 108
+    max_length_girth: 130
+    max_weight: 150
+    name: Oversize (Standard)
+  - id: 45
+    max_dimensions:
+    - 108
+    max_length_girth: 165
+    max_weight: 150
+    name: Oversize (Large)
+  - id: 47
+    name: Oversize (Special)
+  name: United States
+  region: NA
+  url: https://www.amazon.com

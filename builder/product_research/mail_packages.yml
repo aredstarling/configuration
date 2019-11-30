@@ -1,0 +1,146 @@
+marketplaces:
+- name: United States
+  mail_packages: # https://www.amazon.com/gp/aw/help/id=201119390
+  - id: 1
+    name: Standard (Small)
+    max_dimensions:
+    - 15
+    - 12
+    - 0.75
+    max_weight: 0.75
+  - id: 5
+    name: Standard (Large)
+    max_dimensions:
+    - 18
+    - 14
+    - 8
+    max_weight: 20
+  - id: 41
+    name: Oversize (Small)
+    max_dimensions:
+    - 60
+    - 30
+    max_weight: 70
+    max_length_girth: 130
+  - id: 43
+    name: Oversize (Standard)
+    max_dimensions:
+    - 108
+    max_weight: 150
+    max_length_girth: 130
+  - id: 45
+    name: Oversize (Large)
+    max_dimensions:
+    - 108
+    max_weight: 150
+    max_length_girth: 165
+  - id: 47
+    name: Oversize (Special)
+
+- name: United Kingdom
+  mail_packages: # https://services.amazon.co.uk/services/fulfilment-by-amazon/pricing.html
+  - id: 11
+    name: Letter (Small)
+    max_dimensions:
+    - 9.05512   # 23cm in inches
+    - 6.1023622 # 15.5cm in inches
+    - 0.15748   # 0.4cm in inches
+    max_weight: 0.202825 # 92g in pounds
+    max_price: 9
+  - id: 15
+    name: Letter (Large)
+    max_dimensions:
+    - 11.811   # 30cm in inches
+    - 8.66142  # 22cm in inches
+    - 0.944882 # 2.4cm in inches
+    max_weight: 0.49604 # 225g in pounds
+    max_price: 9
+  - id: 21
+    name: Envelope (Small)
+    max_dimensions:
+    - 7.87402  # 20cm in inches
+    - 5.90551  # 15cm in inches
+    - 0.393701 # 1cm in inches
+    max_weight: 0.17637 # 80g in pounds
+  - id: 23
+    name: Envelope (Standard)
+    max_dimensions:
+    - 12.9921  # 33cm in inches
+    - 9.05512  # 23cm in inches
+    - 0.984252 # 2.5cm in inches
+    max_weight: 1.01413 # 460g in pounds
+  - id: 25
+    name: Envelope (Large)
+    max_dimensions:
+    - 12.9921 # 33cm in inches
+    - 9.05512 # 23cm in inches
+    - 1.9685  # 5cm in inches
+    max_weight: 2.11644 # 960g in pounds
+  - id: 33
+    name: Parcel (Standard)
+    max_dimensions:
+    - 17.7165 # 45cm in inches
+    - 13.3858 # 34cm in inches
+    - 10.2362 # 26cm in inches
+    max_weight: 26.235009 # 11900g in pounds
+  - id: 41
+    name: Oversize (Small)
+    max_dimensions:
+    - 24.0157 # 61cm in inches
+    - 18.1102 # 46cm in inches
+    max_weight: 3.880136 # 1760g in pounds
+  - id: 43
+    name: Oversize (Standard)
+    max_dimensions:
+    - 47.2441 # 120cm in inches
+    - 23.622  # 60cm in inches
+    max_weight: 65.609569 # 29760g in pounds
+  - id: 45
+    name: Oversize (Large)
+    max_weight: 65.609569 # 29760g in pounds
+
+- name: Germany
+  mail_packages: # https://m.media-amazon.com/images/G/02/FBA_Files/2018/2/FBA_DE_Rate_Card.pdf?ld=NSGoogle_105099_T1 (hope you speak German!)
+  - id: 21
+    name: Envelope (Small)
+    max_dimensions:
+    - 7.87402  # 20cm in inches
+    - 5.90551  # 15cm in inches
+    - 0.393701 # 1cm in inches
+    max_weight: 0.220462 # 100g in pounds
+  - id: 23
+    name: Envelope (Standard)
+    max_dimensions:
+    - 12.9921  # 33cm in inches
+    - 9.05512  # 23cm in inches
+    - 0.984252 # 2.5cm in inches
+    max_weight: 1.10231 # 500g in pounds
+  - id: 25
+    name: Envelope (Large)
+    max_dimensions:
+    - 12.9921 # 33cm in inches
+    - 9.05512 # 23cm in inches
+    - 1.9685  # 5cm in inches
+    max_weight: 2.20462 # 1000g in pounds
+  - id: 33
+    name: Parcel (Standard)
+    max_dimensions:
+    - 17.7165 # 45cm in inches
+    - 13.3858 # 34cm in inches
+    - 10.2362 # 26cm in inches
+    max_weight: 26.455471 # 12000g in pounds
+  - id: 41
+    name: Oversize (Small)
+    max_dimensions:
+    - 24.0157 # 61cm in inches
+    - 18.1102 # 46cm in inches
+    max_weight: 4.409245 # 2000g in pounds
+  - id: 43
+    name: Oversize (Standard)
+    max_dimensions:
+    - 47.2441 # 120cm in inches
+    - 23.622  # 60cm in inches
+    max_weight: 66.138679 # 30000g in pounds
+  - id: 45
+    name: Oversize (Large)
+    max_weight: 66.138679 # 30000g in pounds

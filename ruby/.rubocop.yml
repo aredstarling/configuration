@@ -1,0 +1,42 @@
+AllCops:
+  TargetRubyVersion: 2.5
+  DisplayCopNames: true
+
+Rails:
+  Enabled: false
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+
+Metrics/ModuleLength:
+  Exclude:
+    - spec/**/*
+    - Gemfile
+
+Layout/DotPosition:
+  EnforcedStyle: trailing
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Layout/MultilineOperationIndentation:
+  EnforcedStyle: indented
+
+Layout/SpaceInsideHashLiteralBraces:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Style/CommandLiteral:
+  EnforcedStyle: mixed
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Lambda:
+  EnforcedStyle: literal

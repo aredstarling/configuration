@@ -1,0 +1,54 @@
+version: 2
+jobs:
+  go:
+    docker:
+      - image: circleci/golang:1.10
+    working_directory: /go/src/github.com/cashcowpro/configuration/go
+    steps:
+      - checkout:
+          path: /go/src/github.com/cashcowpro/configuration
+      - restore_cache:
+          keys:
+            - configuration-vendor-cache-{{ checksum "Gopkg.lock" }}
+            - configuration-vendor-cache-
+      - run: go version
+      - run: make dependencies
+      - save_cache:
+          key: configuration-vendor-cache-{{ checksum "Gopkg.lock" }}
+          paths:
+            - vendor
+      - run: GOCACHE=off make spec
+      - run: make analysis
+  ruby:
+    docker:
+      - image: circleci/ruby:2.5
+        environment:
+          BUNDLE_JOBS: 3
+          BUNDLE_PATH: vendor/bundle
+          BUNDLE_RETRY: 3
+    working_directory: ~/configuration/ruby
+    steps:
+      - checkout:
+          path: ~/configuration
+      - restore_cache:
+          keys:
+            - configuration-gem-cache-{{ checksum "Gemfile.lock" }}
+            - configuration-gem-cache-
+      - run: gem install bundler
+      - run: bundle check --path vendor/bundle || bundle install --path vendor/bundle
+      - run: bundle clean
+      - save_cache:
+          key: configuration-gem-cache-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run: make spec
+      - run: make analysis
+      - store_artifacts:
+          path: coverage
+
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - go
+      - ruby
